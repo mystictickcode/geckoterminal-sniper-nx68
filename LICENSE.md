@@ -1,4 +1,4 @@
-# 
+# best geckoterminal sniper bot | auto-buy + back-running is the best geckoterminal sniper bot, featuring auto-buy and back-running. Fast, smart, and optimized for MEV and sniper
 
 
 
